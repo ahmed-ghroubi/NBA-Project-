@@ -1,0 +1,481 @@
+year,season,team_full_name,conference,playoff_seed,actual_playoff_team,top_8_conference_team,playoff_stage,playoff_finish_rank,reached_conference_semifinals,reached_conference_finals,reached_finals,won_nba_title
+1997,1996-97,Chicago Bulls,East,1,1,1,Champion,1,1,1,1,1
+1997,1996-97,Miami Heat,East,2,1,1,Conference Finals,3,1,1,0,0
+1997,1996-97,New York Knicks,East,3,1,1,Conference Semifinals,4,1,0,0,0
+1997,1996-97,Atlanta Hawks,East,4,1,1,Conference Semifinals,4,1,0,0,0
+1997,1996-97,Detroit Pistons,East,5,1,1,First Round,5,0,0,0,0
+1997,1996-97,Charlotte Hornets,East,6,1,1,First Round,5,0,0,0,0
+1997,1996-97,Orlando Magic,East,7,1,1,First Round,5,0,0,0,0
+1997,1996-97,Washington Bullets,East,8,1,1,First Round,5,0,0,0,0
+1997,1996-97,Utah Jazz,West,1,1,1,Finals Runner-up,2,1,1,1,0
+1997,1996-97,Seattle SuperSonics,West,2,1,1,Conference Semifinals,4,1,0,0,0
+1997,1996-97,Houston Rockets,West,3,1,1,Conference Finals,3,1,1,0,0
+1997,1996-97,Los Angeles Lakers,West,4,1,1,Conference Semifinals,4,1,0,0,0
+1997,1996-97,Portland Trail Blazers,West,5,1,1,First Round,5,0,0,0,0
+1997,1996-97,Minnesota Timberwolves,West,6,1,1,First Round,5,0,0,0,0
+1997,1996-97,Phoenix Suns,West,7,1,1,First Round,5,0,0,0,0
+1997,1996-97,Los Angeles Clippers,West,8,1,1,First Round,5,0,0,0,0
+1998,1997-98,Chicago Bulls,East,1,1,1,Champion,1,1,1,1,1
+1998,1997-98,Miami Heat,East,2,1,1,First Round,5,0,0,0,0
+1998,1997-98,Indiana Pacers,East,3,1,1,Conference Finals,3,1,1,0,0
+1998,1997-98,Charlotte Hornets,East,4,1,1,Conference Semifinals,4,1,0,0,0
+1998,1997-98,Atlanta Hawks,East,5,1,1,First Round,5,0,0,0,0
+1998,1997-98,Cleveland Cavaliers,East,6,1,1,First Round,5,0,0,0,0
+1998,1997-98,New York Knicks,East,7,1,1,Conference Semifinals,4,1,0,0,0
+1998,1997-98,New Jersey Nets,East,8,1,1,First Round,5,0,0,0,0
+1998,1997-98,Utah Jazz,West,1,1,1,Finals Runner-up,2,1,1,1,0
+1998,1997-98,Seattle SuperSonics,West,2,1,1,Conference Semifinals,4,1,0,0,0
+1998,1997-98,Los Angeles Lakers,West,3,1,1,Conference Finals,3,1,1,0,0
+1998,1997-98,Phoenix Suns,West,4,1,1,First Round,5,0,0,0,0
+1998,1997-98,San Antonio Spurs,West,5,1,1,Conference Semifinals,4,1,0,0,0
+1998,1997-98,Portland Trail Blazers,West,6,1,1,First Round,5,0,0,0,0
+1998,1997-98,Minnesota Timberwolves,West,7,1,1,First Round,5,0,0,0,0
+1998,1997-98,Houston Rockets,West,8,1,1,First Round,5,0,0,0,0
+1999,1998-99,Miami Heat,East,1,1,1,First Round,5,0,0,0,0
+1999,1998-99,Indiana Pacers,East,2,1,1,Conference Finals,3,1,1,0,0
+1999,1998-99,Orlando Magic,East,3,1,1,First Round,5,0,0,0,0
+1999,1998-99,Atlanta Hawks,East,4,1,1,Conference Semifinals,4,1,0,0,0
+1999,1998-99,Detroit Pistons,East,5,1,1,First Round,5,0,0,0,0
+1999,1998-99,Philadelphia 76ers,East,6,1,1,Conference Semifinals,4,1,0,0,0
+1999,1998-99,Milwaukee Bucks,East,7,1,1,First Round,5,0,0,0,0
+1999,1998-99,New York Knicks,East,8,1,1,Finals Runner-up,2,1,1,1,0
+1999,1998-99,San Antonio Spurs,West,1,1,1,Champion,1,1,1,1,1
+1999,1998-99,Portland Trail Blazers,West,2,1,1,Conference Finals,3,1,1,0,0
+1999,1998-99,Utah Jazz,West,3,1,1,Conference Semifinals,4,1,0,0,0
+1999,1998-99,Los Angeles Lakers,West,4,1,1,Conference Semifinals,4,1,0,0,0
+1999,1998-99,Houston Rockets,West,5,1,1,First Round,5,0,0,0,0
+1999,1998-99,Sacramento Kings,West,6,1,1,First Round,5,0,0,0,0
+1999,1998-99,Phoenix Suns,West,7,1,1,First Round,5,0,0,0,0
+1999,1998-99,Minnesota Timberwolves,West,8,1,1,First Round,5,0,0,0,0
+2000,1999-00,Indiana Pacers,East,1,1,1,Finals Runner-up,2,1,1,1,0
+2000,1999-00,Miami Heat,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2000,1999-00,New York Knicks,East,3,1,1,Conference Finals,3,1,1,0,0
+2000,1999-00,Charlotte Hornets,East,4,1,1,First Round,5,0,0,0,0
+2000,1999-00,Philadelphia 76ers,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2000,1999-00,Toronto Raptors,East,6,1,1,First Round,5,0,0,0,0
+2000,1999-00,Detroit Pistons,East,7,1,1,First Round,5,0,0,0,0
+2000,1999-00,Milwaukee Bucks,East,8,1,1,First Round,5,0,0,0,0
+2000,1999-00,Los Angeles Lakers,West,1,1,1,Champion,1,1,1,1,1
+2000,1999-00,Utah Jazz,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2000,1999-00,Portland Trail Blazers,West,3,1,1,Conference Finals,3,1,1,0,0
+2000,1999-00,San Antonio Spurs,West,4,1,1,First Round,5,0,0,0,0
+2000,1999-00,Phoenix Suns,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2000,1999-00,Minnesota Timberwolves,West,6,1,1,First Round,5,0,0,0,0
+2000,1999-00,Seattle SuperSonics,West,7,1,1,First Round,5,0,0,0,0
+2000,1999-00,Sacramento Kings,West,8,1,1,First Round,5,0,0,0,0
+2001,2000-01,Philadelphia 76ers,East,1,1,1,Finals Runner-up,2,1,1,1,0
+2001,2000-01,Milwaukee Bucks,East,2,1,1,Conference Finals,3,1,1,0,0
+2001,2000-01,Miami Heat,East,3,1,1,First Round,5,0,0,0,0
+2001,2000-01,New York Knicks,East,4,1,1,First Round,5,0,0,0,0
+2001,2000-01,Toronto Raptors,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2001,2000-01,Charlotte Hornets,East,6,1,1,Conference Semifinals,4,1,0,0,0
+2001,2000-01,Orlando Magic,East,7,1,1,First Round,5,0,0,0,0
+2001,2000-01,Indiana Pacers,East,8,1,1,First Round,5,0,0,0,0
+2001,2000-01,San Antonio Spurs,West,1,1,1,Conference Finals,3,1,1,0,0
+2001,2000-01,Los Angeles Lakers,West,2,1,1,Champion,1,1,1,1,1
+2001,2000-01,Sacramento Kings,West,3,1,1,Conference Semifinals,4,1,0,0,0
+2001,2000-01,Utah Jazz,West,4,1,1,First Round,5,0,0,0,0
+2001,2000-01,Dallas Mavericks,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2001,2000-01,Phoenix Suns,West,6,1,1,First Round,5,0,0,0,0
+2001,2000-01,Portland Trail Blazers,West,7,1,1,First Round,5,0,0,0,0
+2001,2000-01,Minnesota Timberwolves,West,8,1,1,First Round,5,0,0,0,0
+2002,2001-02,New Jersey Nets,East,1,1,1,Finals Runner-up,2,1,1,1,0
+2002,2001-02,Detroit Pistons,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2002,2001-02,Boston Celtics,East,3,1,1,Conference Finals,3,1,1,0,0
+2002,2001-02,Charlotte Hornets,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2002,2001-02,Orlando Magic,East,5,1,1,First Round,5,0,0,0,0
+2002,2001-02,Philadelphia 76ers,East,6,1,1,First Round,5,0,0,0,0
+2002,2001-02,Toronto Raptors,East,7,1,1,First Round,5,0,0,0,0
+2002,2001-02,Indiana Pacers,East,8,1,1,First Round,5,0,0,0,0
+2002,2001-02,Sacramento Kings,West,1,1,1,Conference Finals,3,1,1,0,0
+2002,2001-02,San Antonio Spurs,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2002,2001-02,Los Angeles Lakers,West,3,1,1,Champion,1,1,1,1,1
+2002,2001-02,Dallas Mavericks,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2002,2001-02,Minnesota Timberwolves,West,5,1,1,First Round,5,0,0,0,0
+2002,2001-02,Portland Trail Blazers,West,6,1,1,First Round,5,0,0,0,0
+2002,2001-02,Seattle SuperSonics,West,7,1,1,First Round,5,0,0,0,0
+2002,2001-02,Utah Jazz,West,8,1,1,First Round,5,0,0,0,0
+2003,2002-03,Detroit Pistons,East,1,1,1,Conference Finals,3,1,1,0,0
+2003,2002-03,New Jersey Nets,East,2,1,1,Finals Runner-up,2,1,1,1,0
+2003,2002-03,Indiana Pacers,East,3,1,1,First Round,5,0,0,0,0
+2003,2002-03,Philadelphia 76ers,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2003,2002-03,New Orleans Hornets,East,5,1,1,First Round,5,0,0,0,0
+2003,2002-03,Boston Celtics,East,6,1,1,Conference Semifinals,4,1,0,0,0
+2003,2002-03,Milwaukee Bucks,East,7,1,1,First Round,5,0,0,0,0
+2003,2002-03,Orlando Magic,East,8,1,1,First Round,5,0,0,0,0
+2003,2002-03,San Antonio Spurs,West,1,1,1,Champion,1,1,1,1,1
+2003,2002-03,Sacramento Kings,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2003,2002-03,Dallas Mavericks,West,3,1,1,Conference Finals,3,1,1,0,0
+2003,2002-03,Minnesota Timberwolves,West,4,1,1,First Round,5,0,0,0,0
+2003,2002-03,Los Angeles Lakers,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2003,2002-03,Portland Trail Blazers,West,6,1,1,First Round,5,0,0,0,0
+2003,2002-03,Utah Jazz,West,7,1,1,First Round,5,0,0,0,0
+2003,2002-03,Phoenix Suns,West,8,1,1,First Round,5,0,0,0,0
+2004,2003-04,Indiana Pacers,East,1,1,1,Conference Finals,3,1,1,0,0
+2004,2003-04,New Jersey Nets,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2004,2003-04,Detroit Pistons,East,3,1,1,Champion,1,1,1,1,1
+2004,2003-04,Miami Heat,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2004,2003-04,New Orleans Hornets,East,5,1,1,First Round,5,0,0,0,0
+2004,2003-04,Milwaukee Bucks,East,6,1,1,First Round,5,0,0,0,0
+2004,2003-04,New York Knicks,East,7,1,1,First Round,5,0,0,0,0
+2004,2003-04,Boston Celtics,East,8,1,1,First Round,5,0,0,0,0
+2004,2003-04,Minnesota Timberwolves,West,1,1,1,Conference Finals,3,1,1,0,0
+2004,2003-04,Los Angeles Lakers,West,2,1,1,Finals Runner-up,2,1,1,1,0
+2004,2003-04,San Antonio Spurs,West,3,1,1,Conference Semifinals,4,1,0,0,0
+2004,2003-04,Sacramento Kings,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2004,2003-04,Dallas Mavericks,West,5,1,1,First Round,5,0,0,0,0
+2004,2003-04,Memphis Grizzlies,West,6,1,1,First Round,5,0,0,0,0
+2004,2003-04,Houston Rockets,West,7,1,1,First Round,5,0,0,0,0
+2004,2003-04,Denver Nuggets,West,8,1,1,First Round,5,0,0,0,0
+2005,2004-05,Miami Heat,East,1,1,1,Conference Finals,3,1,1,0,0
+2005,2004-05,Detroit Pistons,East,2,1,1,Finals Runner-up,2,1,1,1,0
+2005,2004-05,Boston Celtics,East,3,1,1,First Round,5,0,0,0,0
+2005,2004-05,Chicago Bulls,East,4,1,1,First Round,5,0,0,0,0
+2005,2004-05,Washington Wizards,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2005,2004-05,Indiana Pacers,East,6,1,1,Conference Semifinals,4,1,0,0,0
+2005,2004-05,Philadelphia 76ers,East,7,1,1,First Round,5,0,0,0,0
+2005,2004-05,New Jersey Nets,East,8,1,1,First Round,5,0,0,0,0
+2005,2004-05,Phoenix Suns,West,1,1,1,Conference Finals,3,1,1,0,0
+2005,2004-05,San Antonio Spurs,West,2,1,1,Champion,1,1,1,1,1
+2005,2004-05,Seattle SuperSonics,West,3,1,1,Conference Semifinals,4,1,0,0,0
+2005,2004-05,Dallas Mavericks,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2005,2004-05,Houston Rockets,West,5,1,1,First Round,5,0,0,0,0
+2005,2004-05,Sacramento Kings,West,6,1,1,First Round,5,0,0,0,0
+2005,2004-05,Denver Nuggets,West,7,1,1,First Round,5,0,0,0,0
+2005,2004-05,Memphis Grizzlies,West,8,1,1,First Round,5,0,0,0,0
+2006,2005-06,Detroit Pistons,East,1,1,1,Conference Finals,3,1,1,0,0
+2006,2005-06,Miami Heat,East,2,1,1,Champion,1,1,1,1,1
+2006,2005-06,New Jersey Nets,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2006,2005-06,Cleveland Cavaliers,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2006,2005-06,Washington Wizards,East,5,1,1,First Round,5,0,0,0,0
+2006,2005-06,Indiana Pacers,East,6,1,1,First Round,5,0,0,0,0
+2006,2005-06,Chicago Bulls,East,7,1,1,First Round,5,0,0,0,0
+2006,2005-06,Milwaukee Bucks,East,8,1,1,First Round,5,0,0,0,0
+2006,2005-06,San Antonio Spurs,West,1,1,1,Conference Semifinals,4,1,0,0,0
+2006,2005-06,Phoenix Suns,West,2,1,1,Conference Finals,3,1,1,0,0
+2006,2005-06,Denver Nuggets,West,3,1,1,First Round,5,0,0,0,0
+2006,2005-06,Dallas Mavericks,West,4,1,1,Finals Runner-up,2,1,1,1,0
+2006,2005-06,Memphis Grizzlies,West,5,1,1,First Round,5,0,0,0,0
+2006,2005-06,Los Angeles Clippers,West,6,1,1,Conference Semifinals,4,1,0,0,0
+2006,2005-06,Los Angeles Lakers,West,7,1,1,First Round,5,0,0,0,0
+2006,2005-06,Sacramento Kings,West,8,1,1,First Round,5,0,0,0,0
+2007,2006-07,Detroit Pistons,East,1,1,1,Conference Finals,3,1,1,0,0
+2007,2006-07,Cleveland Cavaliers,East,2,1,1,Finals Runner-up,2,1,1,1,0
+2007,2006-07,Toronto Raptors,East,3,1,1,First Round,5,0,0,0,0
+2007,2006-07,Miami Heat,East,4,1,1,First Round,5,0,0,0,0
+2007,2006-07,Chicago Bulls,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2007,2006-07,New Jersey Nets,East,6,1,1,Conference Semifinals,4,1,0,0,0
+2007,2006-07,Washington Wizards,East,7,1,1,First Round,5,0,0,0,0
+2007,2006-07,Orlando Magic,East,8,1,1,First Round,5,0,0,0,0
+2007,2006-07,Dallas Mavericks,West,1,1,1,First Round,5,0,0,0,0
+2007,2006-07,Phoenix Suns,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2007,2006-07,San Antonio Spurs,West,3,1,1,Champion,1,1,1,1,1
+2007,2006-07,Utah Jazz,West,4,1,1,Conference Finals,3,1,1,0,0
+2007,2006-07,Houston Rockets,West,5,1,1,First Round,5,0,0,0,0
+2007,2006-07,Denver Nuggets,West,6,1,1,First Round,5,0,0,0,0
+2007,2006-07,Los Angeles Lakers,West,7,1,1,First Round,5,0,0,0,0
+2007,2006-07,Golden State Warriors,West,8,1,1,Conference Semifinals,4,1,0,0,0
+2008,2007-08,Boston Celtics,East,1,1,1,Champion,1,1,1,1,1
+2008,2007-08,Detroit Pistons,East,2,1,1,Conference Finals,3,1,1,0,0
+2008,2007-08,Orlando Magic,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2008,2007-08,Cleveland Cavaliers,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2008,2007-08,Washington Wizards,East,5,1,1,First Round,5,0,0,0,0
+2008,2007-08,Toronto Raptors,East,6,1,1,First Round,5,0,0,0,0
+2008,2007-08,Philadelphia 76ers,East,7,1,1,First Round,5,0,0,0,0
+2008,2007-08,Atlanta Hawks,East,8,1,1,First Round,5,0,0,0,0
+2008,2007-08,Los Angeles Lakers,West,1,1,1,Finals Runner-up,2,1,1,1,0
+2008,2007-08,New Orleans Hornets,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2008,2007-08,San Antonio Spurs,West,3,1,1,Conference Finals,3,1,1,0,0
+2008,2007-08,Utah Jazz,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2008,2007-08,Houston Rockets,West,5,1,1,First Round,5,0,0,0,0
+2008,2007-08,Phoenix Suns,West,6,1,1,First Round,5,0,0,0,0
+2008,2007-08,Dallas Mavericks,West,7,1,1,First Round,5,0,0,0,0
+2008,2007-08,Denver Nuggets,West,8,1,1,First Round,5,0,0,0,0
+2009,2008-09,Cleveland Cavaliers,East,1,1,1,Conference Finals,3,1,1,0,0
+2009,2008-09,Boston Celtics,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2009,2008-09,Orlando Magic,East,3,1,1,Finals Runner-up,2,1,1,1,0
+2009,2008-09,Atlanta Hawks,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2009,2008-09,Miami Heat,East,5,1,1,First Round,5,0,0,0,0
+2009,2008-09,Philadelphia 76ers,East,6,1,1,First Round,5,0,0,0,0
+2009,2008-09,Chicago Bulls,East,7,1,1,First Round,5,0,0,0,0
+2009,2008-09,Detroit Pistons,East,8,1,1,First Round,5,0,0,0,0
+2009,2008-09,Los Angeles Lakers,West,1,1,1,Champion,1,1,1,1,1
+2009,2008-09,Denver Nuggets,West,2,1,1,Conference Finals,3,1,1,0,0
+2009,2008-09,San Antonio Spurs,West,3,1,1,First Round,5,0,0,0,0
+2009,2008-09,Portland Trail Blazers,West,4,1,1,First Round,5,0,0,0,0
+2009,2008-09,Houston Rockets,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2009,2008-09,Dallas Mavericks,West,6,1,1,Conference Semifinals,4,1,0,0,0
+2009,2008-09,New Orleans Hornets,West,7,1,1,First Round,5,0,0,0,0
+2009,2008-09,Utah Jazz,West,8,1,1,First Round,5,0,0,0,0
+2010,2009-10,Cleveland Cavaliers,East,1,1,1,Conference Semifinals,4,1,0,0,0
+2010,2009-10,Orlando Magic,East,2,1,1,Conference Finals,3,1,1,0,0
+2010,2009-10,Atlanta Hawks,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2010,2009-10,Boston Celtics,East,4,1,1,Finals Runner-up,2,1,1,1,0
+2010,2009-10,Miami Heat,East,5,1,1,First Round,5,0,0,0,0
+2010,2009-10,Milwaukee Bucks,East,6,1,1,First Round,5,0,0,0,0
+2010,2009-10,Charlotte Bobcats,East,7,1,1,First Round,5,0,0,0,0
+2010,2009-10,Chicago Bulls,East,8,1,1,First Round,5,0,0,0,0
+2010,2009-10,Los Angeles Lakers,West,1,1,1,Champion,1,1,1,1,1
+2010,2009-10,Dallas Mavericks,West,2,1,1,First Round,5,0,0,0,0
+2010,2009-10,Phoenix Suns,West,3,1,1,Conference Finals,3,1,1,0,0
+2010,2009-10,Denver Nuggets,West,4,1,1,First Round,5,0,0,0,0
+2010,2009-10,Utah Jazz,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2010,2009-10,Portland Trail Blazers,West,6,1,1,First Round,5,0,0,0,0
+2010,2009-10,San Antonio Spurs,West,7,1,1,Conference Semifinals,4,1,0,0,0
+2010,2009-10,Oklahoma City Thunder,West,8,1,1,First Round,5,0,0,0,0
+2011,2010-11,Chicago Bulls,East,1,1,1,Conference Finals,3,1,1,0,0
+2011,2010-11,Miami Heat,East,2,1,1,Finals Runner-up,2,1,1,1,0
+2011,2010-11,Boston Celtics,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2011,2010-11,Orlando Magic,East,4,1,1,First Round,5,0,0,0,0
+2011,2010-11,Atlanta Hawks,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2011,2010-11,New York Knicks,East,6,1,1,First Round,5,0,0,0,0
+2011,2010-11,Philadelphia 76ers,East,7,1,1,First Round,5,0,0,0,0
+2011,2010-11,Indiana Pacers,East,8,1,1,First Round,5,0,0,0,0
+2011,2010-11,San Antonio Spurs,West,1,1,1,First Round,5,0,0,0,0
+2011,2010-11,Los Angeles Lakers,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2011,2010-11,Dallas Mavericks,West,3,1,1,Champion,1,1,1,1,1
+2011,2010-11,Oklahoma City Thunder,West,4,1,1,Conference Finals,3,1,1,0,0
+2011,2010-11,Denver Nuggets,West,5,1,1,First Round,5,0,0,0,0
+2011,2010-11,Portland Trail Blazers,West,6,1,1,First Round,5,0,0,0,0
+2011,2010-11,New Orleans Hornets,West,7,1,1,First Round,5,0,0,0,0
+2011,2010-11,Memphis Grizzlies,West,8,1,1,Conference Semifinals,4,1,0,0,0
+2012,2011-12,Chicago Bulls,East,1,1,1,First Round,5,0,0,0,0
+2012,2011-12,Miami Heat,East,2,1,1,Champion,1,1,1,1,1
+2012,2011-12,Indiana Pacers,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2012,2011-12,Boston Celtics,East,4,1,1,Conference Finals,3,1,1,0,0
+2012,2011-12,Atlanta Hawks,East,5,1,1,First Round,5,0,0,0,0
+2012,2011-12,Orlando Magic,East,6,1,1,First Round,5,0,0,0,0
+2012,2011-12,New York Knicks,East,7,1,1,First Round,5,0,0,0,0
+2012,2011-12,Philadelphia 76ers,East,8,1,1,Conference Semifinals,4,1,0,0,0
+2012,2011-12,San Antonio Spurs,West,1,1,1,Conference Finals,3,1,1,0,0
+2012,2011-12,Oklahoma City Thunder,West,2,1,1,Finals Runner-up,2,1,1,1,0
+2012,2011-12,Los Angeles Lakers,West,3,1,1,Conference Semifinals,4,1,0,0,0
+2012,2011-12,Memphis Grizzlies,West,4,1,1,First Round,5,0,0,0,0
+2012,2011-12,Los Angeles Clippers,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2012,2011-12,Denver Nuggets,West,6,1,1,First Round,5,0,0,0,0
+2012,2011-12,Dallas Mavericks,West,7,1,1,First Round,5,0,0,0,0
+2012,2011-12,Utah Jazz,West,8,1,1,First Round,5,0,0,0,0
+2013,2012-13,Miami Heat,East,1,1,1,Champion,1,1,1,1,1
+2013,2012-13,New York Knicks,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2013,2012-13,Indiana Pacers,East,3,1,1,Conference Finals,3,1,1,0,0
+2013,2012-13,Brooklyn Nets,East,4,1,1,First Round,5,0,0,0,0
+2013,2012-13,Chicago Bulls,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2013,2012-13,Atlanta Hawks,East,6,1,1,First Round,5,0,0,0,0
+2013,2012-13,Boston Celtics,East,7,1,1,First Round,5,0,0,0,0
+2013,2012-13,Milwaukee Bucks,East,8,1,1,First Round,5,0,0,0,0
+2013,2012-13,Oklahoma City Thunder,West,1,1,1,Conference Semifinals,4,1,0,0,0
+2013,2012-13,San Antonio Spurs,West,2,1,1,Finals Runner-up,2,1,1,1,0
+2013,2012-13,Denver Nuggets,West,3,1,1,First Round,5,0,0,0,0
+2013,2012-13,Los Angeles Clippers,West,4,1,1,First Round,5,0,0,0,0
+2013,2012-13,Memphis Grizzlies,West,5,1,1,Conference Finals,3,1,1,0,0
+2013,2012-13,Golden State Warriors,West,6,1,1,Conference Semifinals,4,1,0,0,0
+2013,2012-13,Los Angeles Lakers,West,7,1,1,First Round,5,0,0,0,0
+2013,2012-13,Houston Rockets,West,8,1,1,First Round,5,0,0,0,0
+2014,2013-14,Indiana Pacers,East,1,1,1,Conference Finals,3,1,1,0,0
+2014,2013-14,Miami Heat,East,2,1,1,Finals Runner-up,2,1,1,1,0
+2014,2013-14,Toronto Raptors,East,3,1,1,First Round,5,0,0,0,0
+2014,2013-14,Chicago Bulls,East,4,1,1,First Round,5,0,0,0,0
+2014,2013-14,Washington Wizards,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2014,2013-14,Brooklyn Nets,East,6,1,1,Conference Semifinals,4,1,0,0,0
+2014,2013-14,Charlotte Bobcats,East,7,1,1,First Round,5,0,0,0,0
+2014,2013-14,Atlanta Hawks,East,8,1,1,First Round,5,0,0,0,0
+2014,2013-14,San Antonio Spurs,West,1,1,1,Champion,1,1,1,1,1
+2014,2013-14,Oklahoma City Thunder,West,2,1,1,Conference Finals,3,1,1,0,0
+2014,2013-14,Los Angeles Clippers,West,3,1,1,Conference Semifinals,4,1,0,0,0
+2014,2013-14,Houston Rockets,West,4,1,1,First Round,5,0,0,0,0
+2014,2013-14,Portland Trail Blazers,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2014,2013-14,Golden State Warriors,West,6,1,1,First Round,5,0,0,0,0
+2014,2013-14,Memphis Grizzlies,West,7,1,1,First Round,5,0,0,0,0
+2014,2013-14,Dallas Mavericks,West,8,1,1,First Round,5,0,0,0,0
+2015,2014-15,Atlanta Hawks,East,1,1,1,Conference Finals,3,1,1,0,0
+2015,2014-15,Cleveland Cavaliers,East,2,1,1,Finals Runner-up,2,1,1,1,0
+2015,2014-15,Chicago Bulls,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2015,2014-15,Toronto Raptors,East,4,1,1,First Round,5,0,0,0,0
+2015,2014-15,Washington Wizards,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2015,2014-15,Milwaukee Bucks,East,6,1,1,First Round,5,0,0,0,0
+2015,2014-15,Boston Celtics,East,7,1,1,First Round,5,0,0,0,0
+2015,2014-15,Brooklyn Nets,East,8,1,1,First Round,5,0,0,0,0
+2015,2014-15,Golden State Warriors,West,1,1,1,Champion,1,1,1,1,1
+2015,2014-15,Houston Rockets,West,2,1,1,Conference Finals,3,1,1,0,0
+2015,2014-15,Los Angeles Clippers,West,3,1,1,Conference Semifinals,4,1,0,0,0
+2015,2014-15,Portland Trail Blazers,West,4,1,1,First Round,5,0,0,0,0
+2015,2014-15,Memphis Grizzlies,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2015,2014-15,San Antonio Spurs,West,6,1,1,First Round,5,0,0,0,0
+2015,2014-15,Dallas Mavericks,West,7,1,1,First Round,5,0,0,0,0
+2015,2014-15,New Orleans Pelicans,West,8,1,1,First Round,5,0,0,0,0
+2016,2015-16,Cleveland Cavaliers,East,1,1,1,Champion,1,1,1,1,1
+2016,2015-16,Toronto Raptors,East,2,1,1,Conference Finals,3,1,1,0,0
+2016,2015-16,Miami Heat,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2016,2015-16,Atlanta Hawks,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2016,2015-16,Boston Celtics,East,5,1,1,First Round,5,0,0,0,0
+2016,2015-16,Charlotte Hornets,East,6,1,1,First Round,5,0,0,0,0
+2016,2015-16,Indiana Pacers,East,7,1,1,First Round,5,0,0,0,0
+2016,2015-16,Detroit Pistons,East,8,1,1,First Round,5,0,0,0,0
+2016,2015-16,Golden State Warriors,West,1,1,1,Finals Runner-up,2,1,1,1,0
+2016,2015-16,San Antonio Spurs,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2016,2015-16,Oklahoma City Thunder,West,3,1,1,Conference Finals,3,1,1,0,0
+2016,2015-16,Los Angeles Clippers,West,4,1,1,First Round,5,0,0,0,0
+2016,2015-16,Portland Trail Blazers,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2016,2015-16,Dallas Mavericks,West,6,1,1,First Round,5,0,0,0,0
+2016,2015-16,Memphis Grizzlies,West,7,1,1,First Round,5,0,0,0,0
+2016,2015-16,Houston Rockets,West,8,1,1,First Round,5,0,0,0,0
+2017,2016-17,Boston Celtics,East,1,1,1,Conference Finals,3,1,1,0,0
+2017,2016-17,Cleveland Cavaliers,East,2,1,1,Finals Runner-up,2,1,1,1,0
+2017,2016-17,Toronto Raptors,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2017,2016-17,Washington Wizards,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2017,2016-17,Atlanta Hawks,East,5,1,1,First Round,5,0,0,0,0
+2017,2016-17,Milwaukee Bucks,East,6,1,1,First Round,5,0,0,0,0
+2017,2016-17,Indiana Pacers,East,7,1,1,First Round,5,0,0,0,0
+2017,2016-17,Chicago Bulls,East,8,1,1,First Round,5,0,0,0,0
+2017,2016-17,Golden State Warriors,West,1,1,1,Champion,1,1,1,1,1
+2017,2016-17,San Antonio Spurs,West,2,1,1,Conference Finals,3,1,1,0,0
+2017,2016-17,Houston Rockets,West,3,1,1,Conference Semifinals,4,1,0,0,0
+2017,2016-17,Los Angeles Clippers,West,4,1,1,First Round,5,0,0,0,0
+2017,2016-17,Utah Jazz,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2017,2016-17,Oklahoma City Thunder,West,6,1,1,First Round,5,0,0,0,0
+2017,2016-17,Memphis Grizzlies,West,7,1,1,First Round,5,0,0,0,0
+2017,2016-17,Portland Trail Blazers,West,8,1,1,First Round,5,0,0,0,0
+2018,2017-18,Toronto Raptors,East,1,1,1,Conference Semifinals,4,1,0,0,0
+2018,2017-18,Boston Celtics,East,2,1,1,Conference Finals,3,1,1,0,0
+2018,2017-18,Philadelphia 76ers,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2018,2017-18,Cleveland Cavaliers,East,4,1,1,Finals Runner-up,2,1,1,1,0
+2018,2017-18,Indiana Pacers,East,5,1,1,First Round,5,0,0,0,0
+2018,2017-18,Miami Heat,East,6,1,1,First Round,5,0,0,0,0
+2018,2017-18,Milwaukee Bucks,East,7,1,1,First Round,5,0,0,0,0
+2018,2017-18,Washington Wizards,East,8,1,1,First Round,5,0,0,0,0
+2018,2017-18,Houston Rockets,West,1,1,1,Conference Finals,3,1,1,0,0
+2018,2017-18,Golden State Warriors,West,2,1,1,Champion,1,1,1,1,1
+2018,2017-18,Portland Trail Blazers,West,3,1,1,First Round,5,0,0,0,0
+2018,2017-18,Oklahoma City Thunder,West,4,1,1,First Round,5,0,0,0,0
+2018,2017-18,Utah Jazz,West,5,1,1,Conference Semifinals,4,1,0,0,0
+2018,2017-18,New Orleans Pelicans,West,6,1,1,Conference Semifinals,4,1,0,0,0
+2018,2017-18,San Antonio Spurs,West,7,1,1,First Round,5,0,0,0,0
+2018,2017-18,Minnesota Timberwolves,West,8,1,1,First Round,5,0,0,0,0
+2019,2018-19,Milwaukee Bucks,East,1,1,1,Conference Finals,3,1,1,0,0
+2019,2018-19,Toronto Raptors,East,2,1,1,Champion,1,1,1,1,1
+2019,2018-19,Philadelphia 76ers,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2019,2018-19,Boston Celtics,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2019,2018-19,Indiana Pacers,East,5,1,1,First Round,5,0,0,0,0
+2019,2018-19,Brooklyn Nets,East,6,1,1,First Round,5,0,0,0,0
+2019,2018-19,Orlando Magic,East,7,1,1,First Round,5,0,0,0,0
+2019,2018-19,Detroit Pistons,East,8,1,1,First Round,5,0,0,0,0
+2019,2018-19,Golden State Warriors,West,1,1,1,Finals Runner-up,2,1,1,1,0
+2019,2018-19,Denver Nuggets,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2019,2018-19,Portland Trail Blazers,West,3,1,1,Conference Finals,3,1,1,0,0
+2019,2018-19,Houston Rockets,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2019,2018-19,Utah Jazz,West,5,1,1,First Round,5,0,0,0,0
+2019,2018-19,Oklahoma City Thunder,West,6,1,1,First Round,5,0,0,0,0
+2019,2018-19,San Antonio Spurs,West,7,1,1,First Round,5,0,0,0,0
+2019,2018-19,Los Angeles Clippers,West,8,1,1,First Round,5,0,0,0,0
+2020,2019-20,Milwaukee Bucks,East,1,1,1,Conference Semifinals,4,1,0,0,0
+2020,2019-20,Toronto Raptors,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2020,2019-20,Boston Celtics,East,3,1,1,Conference Finals,3,1,1,0,0
+2020,2019-20,Indiana Pacers,East,4,1,1,First Round,5,0,0,0,0
+2020,2019-20,Miami Heat,East,5,1,1,Finals Runner-up,2,1,1,1,0
+2020,2019-20,Philadelphia 76ers,East,6,1,1,First Round,5,0,0,0,0
+2020,2019-20,Brooklyn Nets,East,7,1,1,First Round,5,0,0,0,0
+2020,2019-20,Orlando Magic,East,8,1,1,First Round,5,0,0,0,0
+2020,2019-20,Los Angeles Lakers,West,1,1,1,Champion,1,1,1,1,1
+2020,2019-20,Los Angeles Clippers,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2020,2019-20,Denver Nuggets,West,3,1,1,Conference Finals,3,1,1,0,0
+2020,2019-20,Houston Rockets,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2020,2019-20,Oklahoma City Thunder,West,5,1,1,First Round,5,0,0,0,0
+2020,2019-20,Utah Jazz,West,6,1,1,First Round,5,0,0,0,0
+2020,2019-20,Dallas Mavericks,West,7,1,1,First Round,5,0,0,0,0
+2020,2019-20,Portland Trail Blazers,West,8,1,1,First Round,5,0,0,0,0
+2021,2020-21,Philadelphia 76ers,East,1,1,1,Conference Semifinals,4,1,0,0,0
+2021,2020-21,Brooklyn Nets,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2021,2020-21,Milwaukee Bucks,East,3,1,1,Champion,1,1,1,1,1
+2021,2020-21,New York Knicks,East,4,1,1,First Round,5,0,0,0,0
+2021,2020-21,Atlanta Hawks,East,5,1,1,Conference Finals,3,1,1,0,0
+2021,2020-21,Miami Heat,East,6,1,1,First Round,5,0,0,0,0
+2021,2020-21,Boston Celtics,East,7,1,1,First Round,5,0,0,0,0
+2021,2020-21,Washington Wizards,East,8,1,1,First Round,5,0,0,0,0
+2021,2020-21,Utah Jazz,West,1,1,1,Conference Semifinals,4,1,0,0,0
+2021,2020-21,Phoenix Suns,West,2,1,1,Finals Runner-up,2,1,1,1,0
+2021,2020-21,Denver Nuggets,West,3,1,1,Conference Semifinals,4,1,0,0,0
+2021,2020-21,Los Angeles Clippers,West,4,1,1,Conference Finals,3,1,1,0,0
+2021,2020-21,Dallas Mavericks,West,5,1,1,First Round,5,0,0,0,0
+2021,2020-21,Portland Trail Blazers,West,6,1,1,First Round,5,0,0,0,0
+2021,2020-21,Los Angeles Lakers,West,7,1,1,First Round,5,0,0,0,0
+2021,2020-21,Memphis Grizzlies,West,8,1,1,First Round,5,0,0,0,0
+2022,2021-22,Miami Heat,East,1,1,1,Conference Finals,3,1,1,0,0
+2022,2021-22,Boston Celtics,East,2,1,1,Finals Runner-up,2,1,1,1,0
+2022,2021-22,Milwaukee Bucks,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2022,2021-22,Philadelphia 76ers,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2022,2021-22,Toronto Raptors,East,5,1,1,First Round,5,0,0,0,0
+2022,2021-22,Chicago Bulls,East,6,1,1,First Round,5,0,0,0,0
+2022,2021-22,Brooklyn Nets,East,7,1,1,First Round,5,0,0,0,0
+2022,2021-22,Atlanta Hawks,East,8,1,1,First Round,5,0,0,0,0
+2022,2021-22,Phoenix Suns,West,1,1,1,Conference Semifinals,4,1,0,0,0
+2022,2021-22,Memphis Grizzlies,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2022,2021-22,Golden State Warriors,West,3,1,1,Champion,1,1,1,1,1
+2022,2021-22,Dallas Mavericks,West,4,1,1,Conference Finals,3,1,1,0,0
+2022,2021-22,Utah Jazz,West,5,1,1,First Round,5,0,0,0,0
+2022,2021-22,Denver Nuggets,West,6,1,1,First Round,5,0,0,0,0
+2022,2021-22,Minnesota Timberwolves,West,7,1,1,First Round,5,0,0,0,0
+2022,2021-22,New Orleans Pelicans,West,8,1,1,First Round,5,0,0,0,0
+2023,2022-23,Milwaukee Bucks,East,1,1,1,First Round,5,0,0,0,0
+2023,2022-23,Boston Celtics,East,2,1,1,Conference Finals,3,1,1,0,0
+2023,2022-23,Philadelphia 76ers,East,3,1,1,Conference Semifinals,4,1,0,0,0
+2023,2022-23,Cleveland Cavaliers,East,4,1,1,First Round,5,0,0,0,0
+2023,2022-23,New York Knicks,East,5,1,1,Conference Semifinals,4,1,0,0,0
+2023,2022-23,Brooklyn Nets,East,6,1,1,First Round,5,0,0,0,0
+2023,2022-23,Atlanta Hawks,East,7,1,1,First Round,5,0,0,0,0
+2023,2022-23,Miami Heat,East,8,1,1,Finals Runner-up,2,1,1,1,0
+2023,2022-23,Denver Nuggets,West,1,1,1,Champion,1,1,1,1,1
+2023,2022-23,Memphis Grizzlies,West,2,1,1,First Round,5,0,0,0,0
+2023,2022-23,Sacramento Kings,West,3,1,1,First Round,5,0,0,0,0
+2023,2022-23,Phoenix Suns,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2023,2022-23,Los Angeles Clippers,West,5,1,1,First Round,5,0,0,0,0
+2023,2022-23,Golden State Warriors,West,6,1,1,Conference Semifinals,4,1,0,0,0
+2023,2022-23,Los Angeles Lakers,West,7,1,1,Conference Finals,3,1,1,0,0
+2023,2022-23,Minnesota Timberwolves,West,8,1,1,First Round,5,0,0,0,0
+2024,2023-24,Boston Celtics,East,1,1,1,Champion,1,1,1,1,1
+2024,2023-24,New York Knicks,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2024,2023-24,Milwaukee Bucks,East,3,1,1,First Round,5,0,0,0,0
+2024,2023-24,Cleveland Cavaliers,East,4,1,1,Conference Semifinals,4,1,0,0,0
+2024,2023-24,Orlando Magic,East,5,1,1,First Round,5,0,0,0,0
+2024,2023-24,Indiana Pacers,East,6,1,1,Conference Finals,3,1,1,0,0
+2024,2023-24,Philadelphia 76ers,East,7,1,1,First Round,5,0,0,0,0
+2024,2023-24,Miami Heat,East,8,1,1,First Round,5,0,0,0,0
+2024,2023-24,Oklahoma City Thunder,West,1,1,1,Conference Semifinals,4,1,0,0,0
+2024,2023-24,Denver Nuggets,West,2,1,1,Conference Semifinals,4,1,0,0,0
+2024,2023-24,Minnesota Timberwolves,West,3,1,1,Conference Finals,3,1,1,0,0
+2024,2023-24,Los Angeles Clippers,West,4,1,1,First Round,5,0,0,0,0
+2024,2023-24,Dallas Mavericks,West,5,1,1,Finals Runner-up,2,1,1,1,0
+2024,2023-24,Phoenix Suns,West,6,1,1,First Round,5,0,0,0,0
+2024,2023-24,Los Angeles Lakers,West,7,1,1,First Round,5,0,0,0,0
+2024,2023-24,New Orleans Pelicans,West,8,1,1,First Round,5,0,0,0,0
+2025,2024-25,Cleveland Cavaliers,East,1,1,1,Conference Semifinals,4,1,0,0,0
+2025,2024-25,Boston Celtics,East,2,1,1,Conference Semifinals,4,1,0,0,0
+2025,2024-25,New York Knicks,East,3,1,1,Conference Finals,3,1,1,0,0
+2025,2024-25,Indiana Pacers,East,4,1,1,Finals Runner-up,2,1,1,1,0
+2025,2024-25,Milwaukee Bucks,East,5,1,1,First Round,5,0,0,0,0
+2025,2024-25,Detroit Pistons,East,6,1,1,First Round,5,0,0,0,0
+2025,2024-25,Orlando Magic,East,7,1,1,First Round,5,0,0,0,0
+2025,2024-25,Miami Heat,East,8,1,1,First Round,5,0,0,0,0
+2025,2024-25,Oklahoma City Thunder,West,1,1,1,Champion,1,1,1,1,1
+2025,2024-25,Houston Rockets,West,2,1,1,First Round,5,0,0,0,0
+2025,2024-25,Los Angeles Lakers,West,3,1,1,First Round,5,0,0,0,0
+2025,2024-25,Denver Nuggets,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2025,2024-25,Los Angeles Clippers,West,5,1,1,First Round,5,0,0,0,0
+2025,2024-25,Minnesota Timberwolves,West,6,1,1,Conference Finals,3,1,1,0,0
+2025,2024-25,Golden State Warriors,West,7,1,1,Conference Semifinals,4,1,0,0,0
+2025,2024-25,Memphis Grizzlies,West,8,1,1,First Round,5,0,0,0,0
+2026,2025-26,Detroit Pistons,East,1,1,1,Conference Semifinals,4,1,0,0,0
+2026,2025-26,Boston Celtics,East,2,1,1,First Round,5,0,0,0,0
+2026,2025-26,New York Knicks,East,3,1,1,Champion,1,1,1,1,1
+2026,2025-26,Cleveland Cavaliers,East,4,1,1,Conference Finals,3,1,1,0,0
+2026,2025-26,Toronto Raptors,East,5,1,1,First Round,5,0,0,0,0
+2026,2025-26,Atlanta Hawks,East,6,1,1,First Round,5,0,0,0,0
+2026,2025-26,Philadelphia 76ers,East,7,1,1,Conference Semifinals,4,1,0,0,0
+2026,2025-26,Orlando Magic,East,8,1,1,First Round,5,0,0,0,0
+2026,2025-26,Oklahoma City Thunder,West,1,1,1,Conference Finals,3,1,1,0,0
+2026,2025-26,San Antonio Spurs,West,2,1,1,Finals Runner-up,2,1,1,1,0
+2026,2025-26,Denver Nuggets,West,3,1,1,First Round,5,0,0,0,0
+2026,2025-26,Los Angeles Lakers,West,4,1,1,Conference Semifinals,4,1,0,0,0
+2026,2025-26,Houston Rockets,West,5,1,1,First Round,5,0,0,0,0
+2026,2025-26,Minnesota Timberwolves,West,6,1,1,Conference Semifinals,4,1,0,0,0
+2026,2025-26,Portland Trail Blazers,West,7,1,1,First Round,5,0,0,0,0
+2026,2025-26,Phoenix Suns,West,8,1,1,First Round,5,0,0,0,0
